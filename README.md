@@ -9,3 +9,4 @@ https://github.com/legokip/assignements/blob/master/exam_june_7_2018%20(1).ipynb
 https://github.com/legokip/assignements/blob/master/Exam_student%20(1).ipynb
 # final exam
 https://github.com/legokip/-exam_sep_21-/blob/master/exam_2_student%20(1).ipynb
+https://github.com/legokip/-exam_sep_21-/blob/master/exam_Sep_21_2018%20(1).ipynb
